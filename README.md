@@ -2,6 +2,12 @@
 
 This is the collinear.ai interview repo, which has been set up with Vite and a few basic libraries for you to build in.
 
+To begin, install the required dependencies:
+
+```
+npm install
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
